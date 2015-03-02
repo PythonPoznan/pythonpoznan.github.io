@@ -1,0 +1,7 @@
+title: PyRa
+description: "Poznan Python Programmers"
+baseurl: "http://pythonpoznan.github.io"
+url: "http://pythonpoznan.github.io"
+highlighter: pygments
+markdown: kramdown
+permalink: pretty
